@@ -6,6 +6,35 @@ This project provides a production-ready HTTP API and frontend UI for generating
 
 ---
 
+Follow these steps to run the project locally:
+
+1. **Clone the repository**
+
+2. **Install dependencies**
+
+   ```sh
+   npm install
+   cd backend && npm install
+   cd ../frontend && npm install
+   ```
+
+3. **Start the backend server**
+
+   ```sh
+   cd backend && npm run start
+   ```
+
+4. **Start the frontend app**
+
+   ```sh
+   cd frontend && npm run start
+   ```
+
+5. **Access the application**
+   - Open your browser and go to [http://localhost:3000](http://localhost:3000) (or the port shown in your terminal).
+
+---
+
 ## Architecture
 
 ### High-Level Diagram
