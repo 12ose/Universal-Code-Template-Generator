@@ -103,6 +103,6 @@ This project provides a production-ready HTTP API and frontend UI for generating
 
 ---
 
-## Summary
+<!-- ## Summary
 
-This system is modular, extensible, and production-ready. It enables content authors and platform developers to generate high-quality, idiomatic starter code for a wide range of DSA problems, with minimal effort and maximum flexibility.
+This system is modular, extensible, and production-ready. It enables content authors and platform developers to generate high-quality, idiomatic starter code for a wide range of DSA problems, with minimal effort and maximum flexibility. -->
