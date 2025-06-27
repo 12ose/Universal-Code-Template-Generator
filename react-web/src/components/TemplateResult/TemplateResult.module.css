@@ -1,0 +1,16 @@
+.resultBox {
+  margin-top: 24px;
+  background: #f4f4f4;
+  padding: 16px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.code {
+  background: #222;
+  color: #fff;
+  padding: 12px;
+  border-radius: 4px;
+  overflow-x: auto;
+  font-family: 'Fira Mono', 'Consolas', monospace;
+  font-size: 1rem;
+} 
